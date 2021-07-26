@@ -1,11 +1,11 @@
 # Devon Gregory #300414962
-## (COMP313 Assignment One) *Waking Skelly*
+## (COMP313 Assignment One) *Waking Skelly* (Overview: https://www.youtube.com/watch?v=NE7amfvAxL8)
 
 ### Game Description 
  Have you ever been the dragonborne or hero who invaded the dungeon or crypt, killing all the poor skeletons in sight and stealing their loot? 
  Well now you are the Skeleton! Fight back at the hordes of humans and heros who have woken you from your fateful slumber to plunder your chests of gold and potions.
  
- Waking Skelly is a rogue-like, round-based action game that involves medeival weapons and spells. You start at round 1 and keep attempting to make to higher and higher rounds. Collecting coins and spending them on better weapons to kill the humans with. 
+ Waking Skelly is a rogue-like, round-based action game that involves medieval weapons and spells. You start at round 1 and keep attempting to make it to higher and higher rounds. Collecting coins and spending them on better weapons to kill the humans with. 
  
  The main action in Waking Skelly is to survive as many round as you possibly can. To finish a round you must first defeat all of the enemies, then you will move onto the next round. The higher the rounds, the higher the diffculty.
  
@@ -58,8 +58,10 @@
     * WeaponPath.cpp
     * VectorBetween2Vectors.cpp 
 - [x] Make a Video Showing off the Project
+    * https://www.youtube.com/watch?v=NE7amfvAxL8
 
 
 Note: The Buying and Equipping Weapons were working right up until I made the video, not sure why it stopped working.
+Another Note: I only started this 2 weeks before it was due, as I had to go an buy a PC that was capable of running the software.
 
 Developed with Unreal Engine 5
